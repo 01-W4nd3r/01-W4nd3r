@@ -1,7 +1,7 @@
 # aprensentaçao
 ---
-##### ola meu nome e wander tenho 19 anos e sou de minas gerais 
-Atualmente estou estudando phyton pela internet estou seguindo principalmente as aulas do __professor__ **Guanabara** 
+##### ola meu nome e **Wander** tenho 19 anos e sou de minas gerais 
+Atualmente estou estudando **phyton** pela internet estou seguindo principalmente as aulas do __professor__ **Guanabara** 
 do canal [__curso__ **em** __vidio__](https://youtube.com/c/CursoemV%C3%ADdeo)
 E eu comprei um livro de phyton para ajudar no estudo da linguagem 
 
