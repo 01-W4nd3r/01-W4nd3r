@@ -7,7 +7,7 @@ E eu comprei um livro de phyton para ajudar no estudo da linguagem
 
 Quando eu nao estou estudando eu estou trabalhando
 Eu trabalho de açougueiro em um supermercado proximo de casa e esse trabalho tambem me ajuda a comprar materiais novos para meus estudo 
-Como exemplo o **livro** que eu comprei com dinheiro dele e meu **notebook** que eu tanbem comprei com o dinheiro desse trabalho 
+Como exemplo o [**livro**](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181/ref=mp_s_a_1_8?crid=2SDZ1JYB326IA&keywords=introdu%C3%A7%C3%A3o+a+analise+e+desenvolvimento+de+sistemas&qid=1655346476&sprefix=introdu%C3%A7%C3%A3o+a+analise+e+desenvolvimento+de+sistemas%2Caps%2C341&sr=8-8) que eu comprei com dinheiro dele e meu **notebook** que eu tanbem comprei com o dinheiro desse trabalho 
 Entao ele esta compensando a fauta de tempo que ele me da pra estudar pois eu trabalho de segunda a domingo 
 Em escesao as quintas que eu folgo e o terceiro domingo do mes e eu trabalho das 13:30 as 22:20 entao so me resta de manhã pra estudar e nas minhas folgas 
 E issu e muito pouco tempo ao meu ver mas eu ando persistindo no meu curso futuramente quando eu __terminar__ o curso do gustavo guanabara e dominar todo o ensinamento que o livro puder me proporcionar eu quero investir wm um curso presencial de phyton pra solidificar meu aprendizado em phyton 
