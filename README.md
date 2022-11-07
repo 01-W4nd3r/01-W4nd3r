@@ -6,8 +6,7 @@
 
 ### MEIO DE CONTATO
 
-<div style="display: inline_block"><br/>
-  <img align="center"     alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wanderalves969@gmail.com)
 <div style="display: inline_block"><br/>  <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 ### PLATAFORMAS
