@@ -44,7 +44,7 @@ Quando eu nao estou estudando eu estou trabalhando ou jogando algum dos meus __j
 ---
 
 
-https://github.com/01-W4nd3r/01-W4nd3r/blob/output/github-contribution-grid-snake.svg)
+![Animação da cobrinha](https://github.com/01-W4nd3r/01-W4nd3r/blob/output/github-contribution-grid-snake.svg)
 
 
 - 👀 atualmente estou interessado em aprender técnicas novas
