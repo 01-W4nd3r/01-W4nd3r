@@ -35,12 +35,17 @@ Quando eu nao estou estudando eu estou trabalhando ou jogando algum dos meus __j
 [![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/01-W4nd3r)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/01-W4nd3r)
 
+
 ### FERRAMENTA DE BUSCA
 
 <div style="display: inline_block"><br/>
   <img align="center"     alt="html5" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 
 ---
+
+
+https://github.com/01-W4nd3r/01-W4nd3r/blob/output/github-contribution-grid-snake.svg)
+
 
 - 👀 atualmente estou interessado em aprender técnicas novas
 - 📫 gmail de contato... wanderalves969@gmail.com
