@@ -2,7 +2,7 @@
 ---
 ##### ola meu nome e **Wander** tenho 19 anos e sou de minas gerais 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01-W4nd3r&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3l1opy&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=01-W4nd3r&layout=compact&theme=tokyonight)
 
 ---
 Atualmente estou estudando **python** pela internet estou seguindo principalmente as aulas do __professor__ **Guanabara** 
