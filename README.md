@@ -22,8 +22,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 ---
 ![Animação de cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-![Animação de cobra](https://github.com/01-W4nd3r/01-W4nd3r/blob/output/github-contribution-grid-snake.svg)
-
 
 - 👀 atualmente estou interessado em aprender técnicas novas
 - 📫 gmail de contato... wanderalves969@gmail.com
