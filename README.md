@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01-W4nd3r)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01-W4nd3r&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H3L1OPY&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=01-W4nd3r&layout=compact&theme=tokyonight)
 
   <img align="center" alt="Rafa-Python" 
 height="30" width="40" 
