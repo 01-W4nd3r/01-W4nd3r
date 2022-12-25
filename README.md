@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 
 - 👀 atualmente estou interessado em dominar a linguagem python
-- 📫 gmail de contato... wanderalves969@gmail.com
+- 📫 gmail de contato... wanderalves@gmail.com
 
 <!---
 01-W4nd3r/01-W4nd3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
