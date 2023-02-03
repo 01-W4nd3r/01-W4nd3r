@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/01-W4nd3r)
 
 ---
-![Animação de cobra](https://github.com/01-w4nd3r/01-w4nd3r/blob/output/github-contribution-grid-snake.svg)
+![Animação de cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 - 👀 atualmente estou interessado em dominar a linguagem python
